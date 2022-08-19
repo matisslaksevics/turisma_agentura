@@ -1,0 +1,28 @@
+# Ceļojumu un tūrisma piedāvājumu datu uzskaites automatizēta sistēma
+
+## Projekta apraksts
+Projekta mērķis ir izstrādāt web aplikāciju. Aplikācija tiks saistīta ar tūrismu – konkrētāk ar tūrisma aģentūru. Aplikācijai dos lietotājam iespēju pārlūkot dažādus ceļojumus uz dažādām valstīm un pilsētām. Aplikācija katram lietotājam piedāvās dažādus piedāvājumus uz ceļojumiem, kuriem būs atlaide vai kāds bonuss. Daudzi cilvēki, kuri nav ceļojuši nekad vai jau kādu laiku nav ceļojuši, varētu redzēt tūrisma mājaslapas kā grūti lietojamas vai pat dažreiz nesaprotamas, tāpēc mana aplikācija padarīs to visu vieglāku un daudz pārredzamāku ar ļoti vienkāršu dizainu un izskatu, kā arī tiešsaistes čatu ar kādu aģentu, kas varētu klientam palīdzēt ar ceļojuma izvēli, līguma sastādīšanu un parakstīšanu.
+
+## Izmantotās tehnoloģijas
+Projektā tiek izmantots:
+- HTML
+- CSS
+- PHP
+
+## Izmantotie avoti
+[W3School](https://www.w3schools.com/html/default.asp) - example html kods.
+[Getbootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - bootstrap integrācijas skripti.
+[Getbootstrap](https://getbootstrap.com/docs/4.0/components/forms/) - example bootstrap form kods.
+
+## Uzstādīšanas instrukcijas
+1. Lai lietotu git lejupielādējam [Git for windows](https://git-scm.com/download/win)
+2. Instalējam git.
+3. [Lejupielādējam WAMP](http://www.wampserver.com/en/), lai varētu izveidot webserveri.
+4. Instalējam WAMP.
+5. Pārliecinamies par WAMP darbību atverot adresi http://127.0.0.1
+6. Dodamies uz WAMP atrašanās vietu parasti c:\wamp\www un izdzēšam tā saturu.
+7. Veicam labo klikšķi un izvēlamies opciju "git bash here" un izpildam zemāk raksīto komandu.
+```
+git clone https://github.com/rvtprog-kvalifikacija-20/d41-MatissLaksevics-TurismaAgentura.git
+```
+8. Atveram adresi http://127.0.0.1/d41-MatissLaksevics-TurismaAgentura/ 
