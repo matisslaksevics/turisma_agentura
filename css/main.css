@@ -1,0 +1,52 @@
+html {
+}
+
+body {
+}
+
+h1 {
+	text-align:  center;
+	padding-top:  150px;
+}
+
+p {
+	text-align:  center;
+	padding-top:  20px;
+	font-size:  20pt;
+}
+
+.form-group {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.form-check {
+  margin: auto;
+  width: 50%;
+}
+
+.btn-primary {
+	background-color: green;
+}
+
+.myDiv {
+	margin: auto;
+	padding-top: 20px;
+}
+
+.error {
+	position: absolute;
+	padding:  1% 20%;
+	border-radius: 3px;
+	background-color: #FDCAC4;
+	color: #ED6160;
+	display: none;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input, label {
+    margin: .4rem 0;
+}
